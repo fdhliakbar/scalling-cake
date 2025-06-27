@@ -133,7 +133,7 @@ Mohon baca [CONTRIBUTING.md](https://www.google.com/search?q=CONTRIBUTING.md) (J
 
 ## 💬 Diskusi & Komunitas
 
-Bergabunglah dengan kami di **GitHub Discussions** untuk bertanya, berbagi ide, dan berkolaborasi dalam mengembangkan asisten *refactoring* bertenaga AI ini. Mari kita bangun bersama\! [Forum Diskusi AI-Code-Refactor-Assistant](https://www.google.com/search?q=https://github.com/USERNAME_ANDA/AI-Code-Refactor-Assistant/discussions)
+Bergabunglah dengan kami di **GitHub Discussions** untuk **bertanya, berbagi ide, dan berkolaborasi** dalam mengembangkan asisten *refactoring* bertenaga AI ini. Mari kita bangun bersama\! [Forum Diskusi AI-Code-Refactor-Assistant](https://www.google.com/search?q=https://github.com/USERNAME_ANDA/AI-Code-Refactor-Assistant/discussions)
 
 -----
 
