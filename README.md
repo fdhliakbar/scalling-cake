@@ -1,4 +1,26 @@
-# AI-Powered Code Refactor Assistant
+<h1 style="text-align: center;">AI-Powered Code Refactor Assistant</h1>
+
+<p align="center">
+  <a href="https://fastapi.tiangolo.com"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI"></a>
+</p>
+<p align="center">
+    <em>FastAPI framework, high performance, easy to learn, fast to code, ready for production</em>
+</p>
+<p align="center">
+<a href="https://github.com/fastapi/fastapi/actions?query=workflow%3ATest+event%3Apush+branch%3Amaster" target="_blank">
+    <img src="https://github.com/fastapi/fastapi/actions/workflows/test.yml/badge.svg?event=push&branch=master" alt="Test">
+</a>
+<a href="https://coverage-badge.samuelcolvin.workers.dev/redirect/fastapi/fastapi" target="_blank">
+    <img src="https://coverage-badge.samuelcolvin.workers.dev/fastapi/fastapi.svg" alt="Coverage">
+</a>
+<a href="https://pypi.org/project/fastapi" target="_blank">
+    <img src="https://img.shields.io/pypi/v/fastapi?color=%2334D058&label=pypi%20package" alt="Package version">
+</a>
+<a href="https://pypi.org/project/fastapi" target="_blank">
+    <img src="https://img.shields.io/pypi/pyversions/fastapi.svg?color=%2334D058" alt="Supported Python versions">
+</a>
+</p>
+
 
 -----
 
@@ -36,8 +58,8 @@ Untuk menjalankan proyek ini di lingkungan lokal Anda, ikuti langkah-langkah ber
 ### 1\. **Klon Repositori**
 
 ```bash
-git clone https://github.com/USERNAME_ANDA/AI-Code-Refactor-Assistant.git
-cd AI-Code-Refactor-Assistant
+git clone https://github.com/fdhliakbar/scalling-cake.git
+cd scalling-cake
 ```
 
 ### 2\. Arsitektur
@@ -111,32 +133,12 @@ Mohon baca [CONTRIBUTING.md](https://www.google.com/search?q=CONTRIBUTING.md) (J
 
 ## 💬 Diskusi & Komunitas
 
-Bergabunglah dengan kami di GitHub Discussions untuk bertanya, berbagi ide, dan berkolaborasi dalam mengembangkan asisten *refactoring* bertenaga AI ini. Mari kita bangun bersama\!
-
-[Link ke GitHub Discussions Anda](https://www.google.com/search?q=https://github.com/USERNAME_ANDA/AI-Code-Refactor-Assistant/discussions)
+Bergabunglah dengan kami di **GitHub Discussions** untuk bertanya, berbagi ide, dan berkolaborasi dalam mengembangkan asisten *refactoring* bertenaga AI ini. Mari kita bangun bersama\! [Forum Diskusi AI-Code-Refactor-Assistant](https://www.google.com/search?q=https://github.com/USERNAME_ANDA/AI-Code-Refactor-Assistant/discussions)
 
 -----
 
-## 📜 Lisensi
+### Terima Kasih
 
-Didistribusikan di bawah Lisensi MIT. Lihat `LICENSE` untuk informasi lebih lanjut.
-
------
-
-## 📧 Kontak
-
-Nama Anda – [My Email](mailto:fadhliakbar125@gmail.com)
-
-Link Proyek: [github.com/fdhliakbar/scalling-cake](https://github.com/fdhliakbar/scalling-cake)
-
------
-
-### Catatan untuk Anda:
-
-  * **Ganti `USERNAME_ANDA`**: Pastikan Anda mengganti `USERNAME_ANDA` dengan *username* GitHub Anda.
-  * **Buat File `requirements.txt`**: List semua *library* Python yang Anda gunakan beserta versinya di file ini (misal: `pip freeze > requirements.txt`).
-  * **Buat File `LICENSE`**: Pilih lisensi yang sesuai (Lisensi MIT adalah pilihan populer untuk proyek *open source*).
-  * **Buat File `CONTRIBUTING.md` (Opsional)**: Jika Anda ingin kontribusi yang terstruktur.
-  * **Banner/Gambar**: Anda bisa menggunakan *placeholder* yang saya berikan atau, lebih baik lagi, buat gambar kustom yang menarik\! Alat seperti Canva (untuk desain grafis) atau generator gambar AI (seperti Midjourney, DALL-E, atau Stable Diffusion) bisa sangat membantu untuk membuat visual yang unik.
-
-Dengan `README.md` ini, proyek Anda akan terlihat profesional, mudah dipahami, dan mengundang kolaborasi\!
+<p align="center">
+<img src="/frontend/public/images/python cool.jpeg" alt="Python Cool"/>
+</p>
