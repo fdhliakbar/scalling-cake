@@ -1,7 +1,3 @@
-Tentu\! Mari kita buatkan `README.md` yang menarik dan komprehensif untuk proyek **AI-Powered Code Refactor Assistant** Anda. Saya akan sertakan struktur lengkap, saran konten, serta ide untuk logo/banner sederhana yang bisa Anda gunakan.
-
------
-
 # AI-Powered Code Refactor Assistant
 
 -----
@@ -25,15 +21,11 @@ Tujuan utama proyek ini adalah menyediakan asisten cerdas yang bertindak sebagai
 
 -----
 
-## 🛠️ Teknologi yang Digunakan
-
-  * **Bahasa Pemrograman:** Python
-  * **Machine Learning / AI Frameworks:**
-      * **NLP & Code Analysis:** Hugging Face Transformers (untuk model seperti CodeBERT, CodeT5, atau model *code-specific* lainnya), `tree-sitter` atau `ast` (untuk *parsing* Abstract Syntax Trees).
-      * **Pembelajaran Model:** PyTorch / TensorFlow (tergantung pilihan implementasi model).
-  * **Backend / API:** Flask / FastAPI (untuk melayani model ML dan menyediakan *endpoint* analisis).
-  * **Frontend (Opsional, untuk demo/GUI):** Streamlit / Gradio (untuk antarmuka web yang cepat), atau React/Vue (untuk aplikasi web yang lebih kompleks).
-  * **Version Control:** Git & GitHub
+## 📊 Overview Sistem
+- Static Code Analysis menggunakan <a href="https://en.wikipedia.org/wiki/Abstract_syntax_tree">Abstract Syntax Trees (AST)</a>
+- Machine Learning Models untuk pattern recognition
+- Rule-based System untuk validasi dan suggestion
+- Knowledge Base dari best practices
 
 -----
 
@@ -48,14 +40,18 @@ git clone https://github.com/USERNAME_ANDA/AI-Code-Refactor-Assistant.git
 cd AI-Code-Refactor-Assistant
 ```
 
-### 2\. **Buat dan Aktifkan Lingkungan Virtual**
+### 2\. Arsitektur
 
-```bash
-python -m venv venv
-# Untuk Windows
-.\venv\Scripts\activate
-# Untuk macOS/Linux
-source venv/bin/activate
+```
+┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
+│   Code Input    │───▶│  AST Parser     │───▶│   AI Analyzer   │
+│ (Files/Repo)    │    │   & Tokenizer   │    │   (ML Models)   │
+└─────────────────┘    └─────────────────┘    └─────────────────┘
+                                                        │
+┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
+│  Suggestions    │◀───│  Rule Engine    │◀───│  Pattern Detect │
+│   & Reports     │    │  & Validator    │    │   & Classify    │
+└─────────────────┘    └─────────────────┘    └─────────────────┘
 ```
 
 ### 3\. **Instal Dependensi**
